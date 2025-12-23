@@ -1,6 +1,6 @@
-# Goblin RPG
+# GoblinRPG
 
-Goblin RPG is a **turn-based, text-based RPG** built in C++ as part of my journey learning the language and practicing object-oriented programming.
+GoblinRPG is a **turn-based, text-based RPG** built in C++ as part of my journey learning the language and practicing object-oriented programming.
 
 This is my **first complete game project**. The initial version took about 30–60 minutes to implement, with additional time spent refining mechanics and balancing gameplay.
 
@@ -10,7 +10,7 @@ In the future, I plan to expand this project into a **full 2D game** and release
 
 ## Gameplay Overview
 
-In Goblin RPG, you and a goblin take turns attacking each other.  
+In GoblinRPG, you and a goblin take turns attacking each other.  
 You can choose between **four different abilities** to help defeat your enemy.
 
 - The game is turn-based
